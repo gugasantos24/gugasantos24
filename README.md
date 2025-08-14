@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gustavo Santos
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&width=435&lines=Desenvolvedor+FullStack;Estudante+de+Eng.+Software;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2196F3&width=435&lines=Desenvolvedor+FullStack+em+Formação;Estudante+de+Eng.+Software;" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim

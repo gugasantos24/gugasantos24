@@ -44,25 +44,13 @@ const gustavo = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gugasantos24&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Projetos em Destaque
-
-### 🌟 [Primeiro Projeto JavaScript](https://github.com/gugasantos24/Primeiro_Projeto_com_JavaScript)
-Meu primeiro projeto usando JavaScript, onde exploro os fundamentos da linguagem.
-
-### 🚀 [Imersão DevOps Alura](https://github.com/gugasantos24/ImercaoAlura_DevOps)
-Projeto desenvolvido durante a Imersão DevOps da Alura, explorando práticas e ferramentas modernas.
-
-### 💡 [7 Days of Code JS](https://github.com/gugasantos24/7DaysOfCode_JS)
-Desafio de 7 dias da Alura para praticar JavaScript com projetos práticos.
-
-
 ## 🌟 Jornada de Aprendizado
 
 ```
 🎯 Objetivos Atuais:
 ├── 📚 Aprofundar conhecimentos em JavaScript
 ├── 🌐 Dominar tecnologias FullStack
-├── ☁️ Explorar DevOps e Cloud Computing
+├── ☁️ Explorar Noje.Js e React
 ├── 🚀 Contribuir em projetos Open Source
 └── 💼 Conseguir primeiro estágio/emprego na área
 ```

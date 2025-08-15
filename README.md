@@ -70,7 +70,5 @@ const gustavo = {
 <div align="center">
   
   **💙 Obrigado pela visita!**
-  
-  *"O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs*
-  
+
 </div>

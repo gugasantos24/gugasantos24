@@ -36,6 +36,7 @@ const gustavo = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugasantos24&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugasantos24&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 </div>
 
 ## 🌟 Jornada de Aprendizado

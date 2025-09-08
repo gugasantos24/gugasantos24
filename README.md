@@ -46,7 +46,4 @@ const gustavo = {
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gugasantos24)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gst.santos01@gmail.com)
 
----
-<div align="center">
-  <i>"O código é poesia em movimento" 💻✨</i>
-</div>
+

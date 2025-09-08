@@ -36,9 +36,8 @@ const gustavo = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugasantos24&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🎯 Objetivos 2024
-- 🔥 Dominar React.js e Next.js
-- 🚀 Aprofundar conhecimentos em Node.js
+## 🎯 Objetivos 
+- 🚀 Aprofundar conhecimentos 
 - 🌐 Criar aplicações fullstack completas
 - 📚 Contribuir para projetos open source
 
